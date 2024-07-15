@@ -19,7 +19,7 @@ For this we have designed a website to help you determine which of the twelve co
 - **Jupyter Notebook**: For data analysis and visualization.
 - **Kaggle**: For datasets and machine learning models.
 - **Python**: As the core programming language.
-- And many more...
+- **Machine Learning**: To extract the tones and recommend the colors
 
 ## License
 
