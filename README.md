@@ -11,7 +11,7 @@ Welcome to **Color Me Gorgeous**, a Seasonal Color Analyzer designed for the Myn
 ## Project Description
 
 Color Me Gorgeous is an application that allows users to upload a picture and analyze their seasonal shades. But finding out which color season you are can be tricky.
-For this we have designed a website to help you determine which of the twelve color seasons you fall into. By identifying their seasonal color, users can make better fashion choices that complement their natural coloring. The project leverages various technologies, including Bootstrap, Jupyter Notebook, Kaggle, and Python.
+For this we have designed a website to help you determine which of the twelve color seasons you fall into. By identifying their seasonal color, users can make better fashion choices that complement their natural coloring. The project leverages various technologies, including Machine Learning,Bootstrap, Jupyter Notebook, Kaggle, and Python.
 
 ## Tech Stack Used
 
